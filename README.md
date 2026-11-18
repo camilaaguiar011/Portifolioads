@@ -11,3 +11,6 @@ JAVASCRIPT
 
 Sobre Mim: 
 Sou estudando de ads, estou conhecendo html css e javascript me interesso pela area de tecnologia e estou explorando areas como desenvolvimento web, dados e cibercegurança.
+
+##Linkedin
+https://www.linkedin.com/in/camila-aguiar-1ba15a192/
