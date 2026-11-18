@@ -8,3 +8,6 @@ Tecnologias em Aprendizados:
 HTML
 CSS
 JAVASCRIPT
+
+Sobre Mim: 
+Sou estudando de ads, estou conhecendo html css e javascript me interesso pela area de tecnologia e estou explorando areas como desenvolvimento web, dados e cibercegurança.
